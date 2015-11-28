@@ -1,0 +1,5 @@
+E:\oDesk\PokerStarsBot\PokerStarsBot\CardDetection.Lib\bin\Debug\CardDetection.Lib.dll
+E:\oDesk\PokerStarsBot\PokerStarsBot\CardDetection.Lib\bin\Debug\CardDetection.Lib.pdb
+E:\oDesk\PokerStarsBot\PokerStarsBot\CardDetection.Lib\obj\Debug\CardDetection.Lib.csprojResolveAssemblyReference.cache
+E:\oDesk\PokerStarsBot\PokerStarsBot\CardDetection.Lib\obj\Debug\CardDetection.Lib.dll
+E:\oDesk\PokerStarsBot\PokerStarsBot\CardDetection.Lib\obj\Debug\CardDetection.Lib.pdb

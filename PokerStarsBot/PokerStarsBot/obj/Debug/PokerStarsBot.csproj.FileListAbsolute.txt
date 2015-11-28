@@ -1,0 +1,8 @@
+E:\oDesk\PokerStarsBot\PokerStarsBot\PokerStarsBot\bin\Debug\PokerStarsBot.exe.config
+E:\oDesk\PokerStarsBot\PokerStarsBot\PokerStarsBot\bin\Debug\PokerStarsBot.exe
+E:\oDesk\PokerStarsBot\PokerStarsBot\PokerStarsBot\bin\Debug\PokerStarsBot.pdb
+E:\oDesk\PokerStarsBot\PokerStarsBot\PokerStarsBot\bin\Debug\CardDetection.Lib.dll
+E:\oDesk\PokerStarsBot\PokerStarsBot\PokerStarsBot\bin\Debug\CardDetection.Lib.pdb
+E:\oDesk\PokerStarsBot\PokerStarsBot\PokerStarsBot\obj\Debug\PokerStarsBot.csprojResolveAssemblyReference.cache
+E:\oDesk\PokerStarsBot\PokerStarsBot\PokerStarsBot\obj\Debug\PokerStarsBot.exe
+E:\oDesk\PokerStarsBot\PokerStarsBot\PokerStarsBot\obj\Debug\PokerStarsBot.pdb
